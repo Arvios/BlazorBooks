@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBooks.Server", "BlazorBooks\Server\BlazorBooks.Server.csproj", "{C39EC357-1635-4863-BADC-CEE6CF555CB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBooks.Server", "BlazorBooks\Server\BlazorBooks.Server.csproj", "{C39EC357-1635-4863-BADC-CEE6CF555CB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBooks.Client", "BlazorBooks\Client\BlazorBooks.Client.csproj", "{75BCA5DD-EF4B-4874-AFE6-737069AEA7B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBooks.Client", "BlazorBooks\Client\BlazorBooks.Client.csproj", "{75BCA5DD-EF4B-4874-AFE6-737069AEA7B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBooks.Shared", "BlazorBooks\Shared\BlazorBooks.Shared.csproj", "{C95AEEAC-ECF0-4090-AF22-3B620E94D9C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBooks.Shared", "BlazorBooks\Shared\BlazorBooks.Shared.csproj", "{C95AEEAC-ECF0-4090-AF22-3B620E94D9C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
